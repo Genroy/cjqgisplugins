@@ -10,7 +10,7 @@
     ...
   </pyqgis_plugin>
 
-  <!-- B: streetview_qgis_cej_BmaCity (บล็อกใหม่ที่ต้องเพิ่ม) -->
+  <!-- B: streetview_qgis_cej_BmaCity -->
   <pyqgis_plugin name="streetview_qgis_cej_BmaCity" version="1.2.0">
     ...
     <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/streetview_qgis_cej_BmaCity.1.2.0.zip]]></download_url>
