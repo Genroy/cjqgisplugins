@@ -1,44 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
 
-  <!-- ปลั๊กอิน A: clickpointtoeditforBmaCity v2.0 -->
+  <!-- A: clickpointtoeditforBmaCity (ขึ้นใช้งานได้แล้ว) -->
   <pyqgis_plugin name="clickpointtoeditforBmaCity" version="2.0">
-    <description><![CDATA[When clicking point/polygon, open identify & edit form (BMA City edition).]]></description>
-    <about><![CDATA[Customized edition for BMA City workflows.]]></about>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <qgis_maximum_version>3.99</qgis_maximum_version>
-    <homepage><![CDATA[https://github.com/Genroy/Clickpointtoedit]]></homepage>
-    <tracker><![CDATA[https://github.com/Genroy/Clickpointtoedit/issues]]></tracker>
-    <repository><![CDATA[https://github.com/Genroy/Clickpointtoedit]]></repository>
-    <icon><![CDATA[https://genroy.github.io/Clickpointtoedit/plugins/icon_clickpointtoedit.png]]></icon>
-    <author_name><![CDATA[Thamoon Kedkaew (CeJ)]]></author_name>
-    <download_url><![CDATA[https://genroy.github.io/Clickpointtoedit/plugins/clickpointtoeditforBmaCity.2.0.zip]]></download_url>
+    ...
+    <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/clickpointtoeditforBmaCity.2.0.zip]]></download_url>
     <file_name>clickpointtoeditforBmaCity.2.0.zip</file_name>
     <file_size>1593464</file_size>
-    <experimental>False</experimental>
-    <deprecated>False</deprecated>
-    <tags><![CDATA[edit, identify, forms, bma, city]]></tags>
-    <category>Plugins</category>
+    ...
   </pyqgis_plugin>
 
-  <!-- ปลั๊กอิน B: streetview_qgis_cej v1.2.0 -->
-  <pyqgis_plugin name="streetview_qgis_cej_BmaVersion" version="1.2.0">
-    <description><![CDATA[Open Street View in a dock and sync heading with map.]]></description>
-    <about><![CDATA[Shows Street View, rotates heading, and syncs with map.]]></about>
-    <qgis_minimum_version>3.16</qgis_minimum_version>
-    <qgis_maximum_version>3.99</qgis_maximum_version>
-    <homepage><![CDATA[https://github.com/Genroy/streetview_qgis_cej]]></homepage>
-    <tracker><![CDATA[https://github.com/Genroy/streetview_qgis_cej/issues]]></tracker>
-    <repository><![CDATA[https://github.com/Genroy/streetview_qgis_cej]]></repository>
-    <icon><![CDATA[https://genroy.github.io/Clickpointtoedit/plugins/icon_streetview.png]]></icon>
-    <author_name><![CDATA[Thamoon Kedkaew (CeJ)]]></author_name>
-    <download_url><![CDATA[https://genroy.github.io/Clickpointtoedit/plugins/streetview_qgis_cej.1.2.0.zip]]></download_url>
-    <file_name>streetview_qgis_cej.1.2.0.zip</file_name>
-    <file_size>XXXXXXXX</file_size>  <!-- ใส่ขนาดจริงเป็นไบต์ -->
-    <experimental>False</experimental>
-    <deprecated>False</deprecated>
-    <tags><![CDATA[streetview, imagery, visualization]]></tags>
-    <category>Plugins</category>
+  <!-- B: streetview_qgis_cej_BmaCity (บล็อกใหม่ที่ต้องเพิ่ม) -->
+  <pyqgis_plugin name="streetview_qgis_cej_BmaCity" version="1.2.0">
+    ...
+    <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/streetview_qgis_cej_BmaCity.1.2.0.zip]]></download_url>
+    <file_name>streetview_qgis_cej_BmaCity.1.2.0.zip</file_name>
+    <file_size>PUT_SIZE_IN_BYTES</file_size>
+    ...
   </pyqgis_plugin>
 
 </plugins>
