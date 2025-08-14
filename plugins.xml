@@ -2,7 +2,7 @@
 <plugins>
 
   <!-- Plugin A -->
-  <pyqgis_plugin name="clickpointtoeditForBma" version="2.0">
+  <pyqgis_plugin name="clickpointtoeditForBmaCity" version="2.0">
     <description><![CDATA[When clicking a point/polygon, open an identify/edit form (BMA City edition).]]></description>
     <about><![CDATA[Customized edition for BMA City workflows. Shows identify panel and quick attribute edits.]]></about>
     <qgis_minimum_version>3.0</qgis_minimum_version>
