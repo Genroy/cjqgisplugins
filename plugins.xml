@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+
+  <!-- Plugin A -->
+  <pyqgis_plugin name="clickpointtoedit" version="2.0">
+    <description><![CDATA[When clicking a point/polygon, open an identify/edit form (BMA City edition).]]></description>
+    <about><![CDATA[Customized edition for BMA City workflows. Shows identify panel and quick attribute edits.]]></about>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+
+    <homepage><![CDATA[https://github.com/Genroy/Clickpointtoedit]]></homepage>
+    <tracker><![CDATA[https://github.com/Genroy/Clickpointtoedit/issues]]></tracker>
+    <repository><![CDATA[https://github.com/Genroy/Clickpointtoedit]]></repository>
+
+    <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_clickpointtoedit.png]]></icon>
+    <author_name><![CDATA[Thamoon Kedkaew (CeJ)]]></author_name>
+
+    <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/clickpointtoeditforBmaCity.zip]]></download_url>
+    <file_name>clickpointtoeditforBmaCity.zip</file_name>
+    <file_size>1593464</file_size>
+
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags><![CDATA[edit, identify, forms, bma, city]]></tags>
+    <category>Plugins</category>
+  </pyqgis_plugin>
+
+  <!-- Plugin B -->
+  <pyqgis_plugin name="streetview_qgis_cej_BmaCity" version="2.0">
+    <description><![CDATA[Open Street View in a dock and sync heading with map (BMA City).]]></description>
+    <about><![CDATA[Shows Street View, rotates heading, and syncs with map; customized for BMA City.]]></about>
+    <qgis_minimum_version>3.4</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+
+    <homepage><![CDATA[https://github.com/Genroy/streetview_qgis_cej]]></homepage>
+    <tracker><![CDATA[https://github.com/Genroy/streetview_qgis_cej/issues]]></tracker>
+    <repository><![CDATA[https://github.com/Genroy/streetview_qgis_cej]]></repository>
+
+    <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_streetview.png]]></icon>
+    <author_name><![CDATA[Thamoon Kedkaew (CeJ)]]></author_name>
+
+    <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/streetview_qgis_cej_BmaCity.zip]]></download_url>
+    <file_name>streetview_qgis_cej_BmaCity.zip</file_name>
+    <file_size>45447</file_size>
+
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags><![CDATA[streetview, imagery, visualization, bma]]></tags>
+    <category>Plugins</category>
+  </pyqgis_plugin>
+
+</plugins>
