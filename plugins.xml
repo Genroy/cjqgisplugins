@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Replace <USERNAME> with your GitHub username and <REPO> with your repository name.
+  Upload this file to the root of your GitHub Pages repo.
+  Place the ZIP at: https://<USERNAME>.github.io/<REPO>/plugins/clickpointtoedit.2.0.zip
+-->
+<plugins>
+  <pyqgis_plugin name="clickpointtoedit" version="2.0">
+    <description><![CDATA[When click point or polygon will show identify popup and edit records.]]></description>
+    <about><![CDATA[Provide a brief description of the plugin and its purpose.]]></about>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+
+    <homepage><![CDATA[https://genxqx.wixsite.com/ceejay]]></homepage>
+    <tracker><![CDATA[https://github.com/Genroy/clickpointtoedit]]></tracker>
+    <repository><![CDATA[https://github.com/Genroy/clickpointtoedit]]></repository>
+
+    <!-- Optional: upload icon.png to https://<USERNAME>.github.io/<REPO>/plugins/icon.png -->
+    <icon><![CDATA[https://<USERNAME>.github.io/<REPO>/plugins/icon.png]]></icon>
+
+    <author_name><![CDATA[Thamoon Kedkaew (CeJ)]]></author_name>
+
+    <!-- Where QGIS downloads the ZIP from -->
+    <download_url><![CDATA[https://<USERNAME>.github.io/<REPO>/plugins/clickpointtoedit.2.0.zip]]></download_url>
+    <file_name>clickpointtoedit.2.0.zip</file_name>
+    <file_size>1593464</file_size>
+
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags><![CDATA[Edit_data]]></tags>
+    <category>Plugins</category>
+  </pyqgis_plugin>
+</plugins>
