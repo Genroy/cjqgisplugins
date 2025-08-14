@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="clickpointtoeditforBmaCity" version="2.0">
+    <description><![CDATA[When clicking a point/polygon, open an identify/edit form for records (BMA City edition).]]></description>
+    <about><![CDATA[Customized edition for BMA City workflows. Shows identify panel and enables quick attribute edits.]]></about>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+
+    <homepage><![CDATA[https://github.com/Genroy/Clickpointtoedit]]></homepage>
+    <tracker><![CDATA[https://github.com/Genroy/Clickpointtoedit/issues]]></tracker>
+    <repository><![CDATA[https://github.com/Genroy/Clickpointtoedit]]></repository>
+
+    <!-- Optional icon on your GitHub Pages -->
+    <icon><![CDATA[https://genroy.github.io/Clickpointtoedit/plugins/icon.png]]></icon>
+
+    <author_name><![CDATA[Thamoon Kedkaew (CeJ)]]></author_name>
+
+    <!-- Where QGIS downloads the plugin ZIP -->
+    <download_url><![CDATA[https://genroy.github.io/Clickpointtoedit/plugins/clickpointtoeditforBmaCity.2.0.zip]]></download_url>
+    <file_name>clickpointtoeditforBmaCity.2.0.zip</file_name>
+    <file_size>1593464</file_size>
+
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags><![CDATA[edit, identify, forms, bma, city]]></tags>
+    <category>Plugins</category>
+  </pyqgis_plugin>
+</plugins>
