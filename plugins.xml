@@ -26,9 +26,18 @@
   </pyqgis_plugin>
 
   <!-- Plugin B -->
-  <pyqgis_plugin name="streetview_qgis_cej_BmaCity" version="2.0.3">
+  <pyqgis_plugin name="streetview_qgis_cej_BmaCity" version="2.0.4">
     <description><![CDATA[Open Street View in a dock and sync heading with map (BMA City).]]></description>
     <about><![CDATA[Shows Street View, rotates heading, and syncs with map; customized for BMA City.]]></about>
+    <changelog><![CDATA[
+    <b>2.0.4 – NewUpdate</b>
+    <ul>
+      <li>แก้ไขปัญหาระบบ Login อันเนื่องมาจากข้อผิดพลาดจากการเข้าสู่ระบบ</li>
+      <li>Bug Fix</li>
+    </ul>
+    ]]></changelog>
+
+    
     <qgis_minimum_version>3.4</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
 
