@@ -30,7 +30,7 @@
     <description><![CDATA[Open Street View in a dock and sync heading with map (BMA City).]]></description>
     <about><![CDATA[Shows Street View, rotates heading, and syncs with map; customized for BMA City.]]></about>
     <changelog><![CDATA[
-    <b>2.0.5 - อับเดทเมื่อวันที่ ๑/กันยายน/๒๐๒๕ ๒๒:๒๕ UTC+7 Bangkok </b>
+    <b>2.0.6 - อับเดทเมื่อวันที่ ๑/กันยายน/๒๐๒๕ ๒๒:๒๕ UTC+7 Bangkok </b>
     <ul>
       <li>แก้ไขปัญหาระบบ Login อันเนื่องมาจากข้อผิดพลาดจากการเข้าสู่ระบบ</li>
       <li>Bug Fix</li>
