@@ -6,9 +6,9 @@
     <description><![CDATA[When clicking a point/polygon, open an identify/edit form (BMA City edition).]]></description>
     <about><![CDATA[Customized edition for BMA City workflows. Shows identify panel and quick attribute edits.]]></about>
     <changelog><![CDATA[
-    <b>2.0.6 - อับเดทเมื่อวันที่ ๕/กันยายน/๒๐๒๕ ๑๘:๐๐ UTC+7 Bangkok </b>
+    <b>2.0.2 - อับเดทเมื่อวันที่ ๕/กันยายน/๒๐๒๕ ๑๘:๐๐ UTC+7 Bangkok </b>
     <ul>
-      <li>"Arrange Code</li>
+      <li>"Arrange Code"</li>
     </ul>
     ]]></changelog>
     <qgis_minimum_version>3.0</qgis_minimum_version>
