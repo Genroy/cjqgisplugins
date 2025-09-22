@@ -80,17 +80,12 @@
   <tracker><![CDATA[https://github.com/Genroy/Blocklop/issues]]></tracker>
   <repository><![CDATA[https://github.com/Genroy/Blocklop]]></repository>
 
-  <!-- ควรให้ icon ใน ZIP มีชื่อ icon.png ตรงกับ metadata -->
   <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_Blocklop.png]]></icon>
-
   <author_name><![CDATA[Mr.Weerasak Manmuai (Kob) and Thamoon Kedkaew (CeJ)]]></author_name>
 
-  <!-- ตรงกันทั้งสองอัน: -->
   <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/Blocklop.zip]]></download_url>
   <file_name>Blocklop.zip</file_name>
-
-  <!-- อัปเดตเลข byte ที่แท้จริงของไฟล์ zip; ถ้าไม่ชัวร์ ตัดทิ้งได้ -->
-  <!-- <file_size>45447</file_size> -->
+  <file_size>1484443</file_size>
 
   <experimental>False</experimental>
   <deprecated>False</deprecated>
