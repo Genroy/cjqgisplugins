@@ -65,32 +65,37 @@
 
 
 
- <!-- Plugin C -->
-  <pyqgis_plugin name="Blocklop" version="1.0">
-    <description><![CDATA[Cut polygon vector layer]]></description>
-    <about><![CDATA[Select pologons type only and split the polygon in half.]]></about>
-    <changelog><![CDATA[
-    <b>สร้างเมื่อวันที่  ๑๙/กันยายน/๒๐๒๕ ๒๒:๒๕ UTC+7 Bangkok </b>
-    ]]></changelog>
+<!-- Plugin C -->
+<pyqgis_plugin name="Blocklop" version="1.0">
+  <description><![CDATA[Cut polygon vector layer]]></description>
+  <about><![CDATA[Select polygons only and split the polygon in half.]]></about>
+  <changelog><![CDATA[
+  <b>สร้างเมื่อวันที่ 19/กันยายน/2025 22:25 UTC+7 Bangkok</b>
+  ]]></changelog>
 
-    <qgis_minimum_version>3.4</qgis_minimum_version>
-    <qgis_maximum_version>3.99</qgis_maximum_version>
+  <qgis_minimum_version>3.4</qgis_minimum_version>
+  <qgis_maximum_version>3.99</qgis_maximum_version>
 
-    <homepage><![CDATA[https://github.com/Genroy/Blocklop]]></homepage>
-    <tracker><![CDATA[https://github.com/Genroy/Blocklop/issues]]></tracker>
-    <repository><![CDATA[https://github.com/Genroy/Blocklop]]></repository>
+  <homepage><![CDATA[https://github.com/Genroy/Blocklop]]></homepage>
+  <tracker><![CDATA[https://github.com/Genroy/Blocklop/issues]]></tracker>
+  <repository><![CDATA[https://github.com/Genroy/Blocklop]]></repository>
 
-    <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_Blocklop.png]]></icon>
-    <author_name><![CDATA[ Mr.Weerasak Manmuai (Kob) and Thamoon Kedkaew (CeJ)]]></author_name>
+  <!-- ควรให้ icon ใน ZIP มีชื่อ icon.png ตรงกับ metadata -->
+  <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_Blocklop.png]]></icon>
 
-    <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/Blocklop.zip]]></download_url>
-    <file_name>streetview_qgis_cej_BmaCity.zip</file_name>
-    <file_size>45447</file_size>
+  <author_name><![CDATA[Mr.Weerasak Manmuai (Kob) and Thamoon Kedkaew (CeJ)]]></author_name>
 
-    <experimental>False</experimental>
-    <deprecated>False</deprecated>
-    <tags><![CDATA[polygon, geometry, bma]]></tags>
-    <category>Plugins</category>
-  </pyqgis_plugin>
+  <!-- ตรงกันทั้งสองอัน: -->
+  <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/Blocklop.zip]]></download_url>
+  <file_name>Blocklop.zip</file_name>
+
+  <!-- อัปเดตเลข byte ที่แท้จริงของไฟล์ zip; ถ้าไม่ชัวร์ ตัดทิ้งได้ -->
+  <!-- <file_size>45447</file_size> -->
+
+  <experimental>False</experimental>
+  <deprecated>False</deprecated>
+  <tags><![CDATA[polygon, geometry, bma]]></tags>
+  <category>Plugins</category>
+</pyqgis_plugin>
   
 </plugins>
