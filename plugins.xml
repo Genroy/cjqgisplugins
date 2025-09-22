@@ -70,7 +70,7 @@
     <description><![CDATA[Cut polygon vector layer]]></description>
     <about><![CDATA[Select pologons type only and split the polygon in half.]]></about>
     <changelog><![CDATA[
-    <b>2.0.6 - สร้างเมื่อวันที่  ๑๙/กันยายน/๒๐๒๕ ๒๒:๒๕ UTC+7 Bangkok </b>
+    <b>สร้างเมื่อวันที่  ๑๙/กันยายน/๒๐๒๕ ๒๒:๒๕ UTC+7 Bangkok </b>
     ]]></changelog>
 
     <qgis_minimum_version>3.4</qgis_minimum_version>
