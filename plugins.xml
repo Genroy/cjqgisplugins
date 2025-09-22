@@ -43,7 +43,6 @@
     </ul>
     ]]></changelog>
 
-    
     <qgis_minimum_version>3.4</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
 
@@ -64,4 +63,34 @@
     <category>Plugins</category>
   </pyqgis_plugin>
 
+
+
+ <!-- Plugin C -->
+  <pyqgis_plugin name="Blocklop" version="1.0">
+    <description><![CDATA[Cut polygon vector layer]]></description>
+    <about><![CDATA[Select pologons type only and split the polygon in half.]]></about>
+    <changelog><![CDATA[
+    <b>2.0.6 - สร้างเมื่อวันที่  ๑๙/กันยายน/๒๐๒๕ ๒๒:๒๕ UTC+7 Bangkok </b>
+    ]]></changelog>
+
+    <qgis_minimum_version>3.4</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+
+    <homepage><![CDATA[https://github.com/Genroy/streetview_qgis_cej]]></homepage>
+    <tracker><![CDATA[https://github.com/Genroy/streetview_qgis_cej/issues]]></tracker>
+    <repository><![CDATA[https://github.com/Genroy/streetview_qgis_cej]]></repository>
+
+    <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_streetview.png]]></icon>
+    <author_name><![CDATA[ Mr.Weerasak Manmuai (Kob) and Thamoon Kedkaew (CeJ)]]></author_name>
+
+    <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/streetview_qgis_cej_BmaCity.zip]]></download_url>
+    <file_name>streetview_qgis_cej_BmaCity.zip</file_name>
+    <file_size>45447</file_size>
+
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags><![CDATA[polygon, geometry, bma]]></tags>
+    <category>Plugins</category>
+  </pyqgis_plugin>
+  
 </plugins>
