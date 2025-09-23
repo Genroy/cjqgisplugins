@@ -66,7 +66,7 @@
 
 
 <!-- Plugin C -->
-<pyqgis_plugin name="Blocklop" version="1.0">
+<pyqgis_plugin name="Blocklop" version="1.0.1">
   <description><![CDATA[Cut polygon vector layer]]></description>
   <about><![CDATA[Select polygons only and split the polygon in half.]]></about>
   <changelog><![CDATA[
@@ -81,7 +81,7 @@
   <repository><![CDATA[https://github.com/Genroy/Blocklop]]></repository>
 
   <icon><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/icon_Blocklop.png]]></icon>
-  <author_name><![CDATA[Mr.Weerasak Manmuai (Kob) and Thamoon Kedkaew (CeJ)]]></author_name>
+  <author_name><![CDATA[Mr.Weerasak Manmuy and Thamoon Kedkaew (CeJ)]]></author_name>
 
   <download_url><![CDATA[https://genroy.github.io/cjqgisplugins/plugins/Blocklop.zip]]></download_url>
   <file_name>Blocklop.zip</file_name>
